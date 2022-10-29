@@ -54,27 +54,27 @@ body {
     position: relative;
 }
 .card1{
-    background-image: url(//imagenes/foto1.jpg);
+    background-image: url(imagenes/foto1.jpg);
 }
 .card2{
-    background-image: url(//imagenes/foto2.jpg);
+    background-image: url(imagenes/foto2.jpg);
     width: 795px;
 }
 .card3{
-    background-image: url(//imagenes/foto3.jpg);
+    background-image: url(imagenes/foto3.jpg);
 }
 .card4{
-    background-image: url(//imagenes/foto4.jpg);
+    background-image: url(imagenes/foto4.jpg);
 }
 .card5{
-    background-image: url(//imagenes/foto5.jpg);
+    background-image: url(imagenes/foto5.jpg);
 }
 .card6{
-    background-image: url(//imagenes/foto6.jpg);
+    background-image: url(imagenes/foto6.jpg);
     width: 795px;
 }
 .card7{
-    background-image: url(//imagenes/foto7.jpg);
+    background-image: url(imagenes/foto7.jpg);
 }
 .contenido_card1{
     display: flex;
