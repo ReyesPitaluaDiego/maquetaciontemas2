@@ -1,0 +1,26 @@
+@media screen and (max-width:480px){
+    .ancho{
+        max-width: 100%;
+        margin: 0px 16px 0px 16px;
+    }
+
+    .contenido_card1{
+        background-color: rgba(255, 255, 255, .6);
+        top: 0;
+    }
+
+    .team{
+        justify-content: space-around;
+    }
+
+    .card_team{
+        width: 380px;
+    }
+    .card_team picture img{
+        filter: grayscale(0%);
+    }
+    .redes_team a{
+        padding: 0px 20px;
+        font-size: 20px;
+    }
+}
